@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Rheymar 👋
 
-<!--
-**racinco/racinco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | AWS Cloud | DevOps | Electrical Engineer
 
-Here are some ideas to get you started:
+I build production systems across cloud, containers, and hardware.
+Currently working on AWS, Docker, Linux, and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- AWS (EC2, ECS, Fargate, S3, IAM, CloudFront)
+- Docker & CI/CD
+- Linux & Networking
+- PHP, Python, JavaScript, SQL
+
+### 🚀 Highlight Projects
+- **Local Hosting Setup** – CloudFront + EC2 + VPN + reverse proxy
+- **Django Microservice on Fargate** – production-ready deployment
+
+### 📫 Connect with me
+- Medium: https://medium.com/@racinco.itxe
+- LinkedIn: https://linkedin.com/in/rheymar-cinco
