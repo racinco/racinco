@@ -10,6 +10,7 @@ Currently working on AWS, Docker, Linux, and automation.
 - Docker & CI/CD
 - Linux & Networking
 - PHP, Python, JavaScript, SQL
+- AI/Machine Learning
 
 ### 🚀 Highlight Projects
 - **Local Hosting Setup** – CloudFront + EC2 + VPN + reverse proxy
