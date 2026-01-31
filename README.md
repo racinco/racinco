@@ -1,82 +1,69 @@
-## Hi, I'm Rheymar 👋
+# 🚀 Rheymar Cinco
 
-Software Engineer | AWS Cloud | DevOps | Electrical Engineer
+### **Software Engineer | AWS Solutions Architect Associate | Registered Engineer**
+*Building scalable systems at the intersection of Cloud, DevOps, and AI.*
 
-I build production systems across cloud, containers, and hardware.
-Currently working on AWS, Docker, Linux, and automation.
+---
 
-### 🔧 Tech Stack
-- AWS (EC2, ECS, Fargate, S3, IAM, CloudFront)
-- Docker & CI/CD
-- Linux & Networking
-- PHP, Python, JavaScript, SQL
-- AI/Machine Learning
+## 👨‍💻 About Me
+I am a Software Engineer based in the Philippines with a background in **Engineering**. I bring a rigorous, problem-solving mindset to system architecture, specializing in building scalable web systems and optimizing cloud infrastructure. Currently, I am exploring the fascinating intersection of **AI/ML and Hardware Programming**.
 
-### 🚀 Highlight Projects
-- **Local Hosting Setup** – CloudFront + EC2 + VPN + reverse proxy
-- **Django Microservice on Fargate** – production-ready deployment
+[🌐 Portfolio](https://racportfolio.thrifteris.shop/) | [🔗 LinkedIn](https://linkedin.com/in/rheymar-cinco/) | [✍️ Medium](https://medium.com/@racinco.itxe) | [📧 Email](mailto:racinco.ext@gmail.com)
 
-- 👋 Hi, I'm Rheymar Cinco
-Software Engineer | AWS Solutions Architect | Registered Electrical Engineer
-I am a Software Engineer based in the Philippines. I specialize in building scalable web systems, optimizing cloud infrastructure on AWS, and exploring the intersection of AI/ML and hardware programming.
+---
 
-With a background in Engineering (Magna Cum Laude), I bring a rigorous, problem-solving mindset to full-stack development and system architecture.
+## 🛠️ Technical Arsenal
 
-🛠️ Technical Arsenal
+### **Core Stack**
+| Category | Technologies |
+| :--- | :--- |
+| **Cloud (AWS)** | `EC2` `ECS` `Fargate` `EKS` `S3` `CloudFront` `IAM` `Bedrock` |
+| **DevOps** | `Docker` `Terraform` `CI/CD (GitHub Actions)` `Linux` `Networking` |
+| **Languages** | `Python (FastAPI/Django)` `PHP` `JavaScript (jQuery)` `SQL` |
+| **Specialties** | `Microservices` `Multithreading` `REST APIs` `RAG` `IoT/Circuit Design` |
 
-Languages & Frameworks: Python (FastAPI/Django), PHP, JavaScript (jQuery), SQL.
+### **Emerging Tech**
+* **AI/ML:** Retrieval-Augmented Generation (RAG), AWS Bedrock, Embedded Neural Networks (TensorFlow).
+* **Hardware:** Microcontroller-based load identification, Circuit Design.
 
+---
 
+## 🚀 Featured Projects
 
-Cloud & DevOps: AWS (Fargate, EKS, S3, CloudFront), Docker, Terraform, CI/CD (GitHub Actions), Linux.
+### ☁️ [The Cloud Resume Challenge](https://github.com/)
+A serverless resume hosted on AWS utilizing **S3, Route 53, and CloudFront**.
+* **Key Tech:** Fully automated CI/CD pipeline using **Terraform** and GitHub Actions.
 
+### 🤖 [RAG Chatbot](https://github.com/)
+Pioneered a chatbot using **AWS Bedrock** to automate workflows and improve operational efficiency.
+* **Key Tech:** Python, AWS Bedrock, Vector Databases.
 
+### 🎓 [KwizPHL](https://github.com/)
+An AI-integrated web application for quiz generation and classroom management.
+* **Key Tech:** PHP, AI integration, SQL.
 
+### ⚡ [Smart Outlet Thesis](https://github.com/)
+Developed a microcontroller-based load identification system.
+* **Key Tech:** **TensorFlow** (Embedded Neural Networks), C++, IoT.
 
+### 🛡️ [Hybrid Web Server](https://github.com/)
+Established a secure entry point for local servers using an **EC2 instance** as a bastion via VPN.
 
-Engineering Specialties: Microservices, Multithreading, REST APIs, Security Log Analysis (Wazuh).
+### ☁️ Jenkins Automation on Deployment 
+Automated deployment of web projects on servers using Jenkins. 
 
+---
 
+## 🏆 Achievements & Recognition
 
+* **Global Selection:** One of the top **1% of applicants** (from 7,000+) invited to the **KAIST EE Campus Tour** in South Korea. 🇰🇷
+* **AWS Certified:** Solutions Architect Associate & AI Practitioner.
+* **Professional:** Registered Engineer, Google Cybersecurity Professional, Google Generative AI Leader.
 
-Emerging Tech: RAG (Retrieval-Augmented Generation), AWS Bedrock, IoT/Circuit Design.
+---
 
+## 📫 Let's Connect
+I'm always open to discussing cloud architecture, AI implementation, or interesting engineering challenges!
 
-🚀 Key Projects
-
-The Cloud Resume Challenge: A serverless resume hosted on AWS (S3, Route 53, CloudFront) with a fully automated CI/CD pipeline using Terraform and GitHub Actions.
-
-
-Hybrid Web Server: Established a secure entry point for local servers using an EC2 instance as a bastion via VPN.
-
-
-KwizPHL: An AI-integrated web application for quiz generation and classroom management to enhance learning speeds.
-
-
-RAG Chatbot: Pioneered a chatbot using AWS Bedrock to automate workflows and improve efficiency.
-
-
-Smart Outlet Thesis: Developed a microcontroller-based load identification system using embedded neural networks (TensorFlow).
-
-
-🏆 Achievements & Recognition
-
-
-Global Selection: One of the few 1% of applicants (from 7,000+) invited to the KAIST EE Campus Tour in South Korea.
-
-
-Certified Professional: AWS Solutions Architect Associate, AI Practitioner, Google Cybersecurity Professional, AI Developer and Google Generative AI Leader.
-
-
-📫 Connect with Me
-
-LinkedIn: linkedin.com/in/rheymar-cinco/ 
-
-
-Portfolio: racportfolio.thrifteris.shop/ 
-
-
-Medium: @racinco.itxe 
-
-
-Email: racinco.ext@gmail.com
+* **LinkedIn:** [linkedin.com/in/rheymar-cinco/](https://linkedin.com/in/rheymar-cinco/)
+* **Medium:** [@racinco.itxe](https://medium.com/@racinco.itxe)
