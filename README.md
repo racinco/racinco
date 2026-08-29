@@ -1,6 +1,6 @@
 # 🚀 Rheymar Cinco
 
-### **Software Engineer | AWS Solutions Architect Associate | Registered Engineer**
+### **AI/Software Engineer | AWS Solutions Architect Associate | Registered Engineer**
 *Building scalable systems at the intersection of Cloud, DevOps, and AI.*
 
 ---
